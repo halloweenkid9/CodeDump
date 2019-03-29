@@ -1,5 +1,4 @@
     void FixedUpdate()
-    void FixedUpdate()
 	{
         //calculates basic movement
         float moveHorizontal = Input.GetAxis ("Horizontal");
